@@ -1,0 +1,378 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a43daeb9c52450a48a0842685ec8a583, type: 3}
+  m_Name: testEmo
+  m_EditorClassIdentifier: 
+  nodesData:
+  - typeData: 0
+    nodeGUID: c70d6ea2-412b-4725-abdf-8862729412b8
+    dialogueText: ENTRYPOINT
+    pos: {x: 100, y: 200}
+  - typeData: 0
+    nodeGUID: 238b99aa-5adb-40b2-921b-2910872e7051
+    dialogueText: 'YUKIKO : "VIENS T''ATTAQUER A UN VRAI COMBATTANT, KOSHINUKE !"'
+    pos: {x: 638.4, y: 209.6}
+  - typeData: 0
+    nodeGUID: 2ff988e7-b43e-46af-8357-b54bd4079d6b
+    dialogueText: "ONI : \"Koshinuke ? La mort viendra te r\xE9cup\xE9rer avant que
+      tu puisses te suicider, samurai.\""
+    pos: {x: 1127.2, y: 206.4}
+  - typeData: 0
+    nodeGUID: 6cf2ed99-078e-4ceb-87c9-2cf6af9c0dca
+    dialogueText: "??? : \"Fuis Ronin ! Aucune \xE9p\xE9e n'arrivera \xE0 le transpercer
+      !\""
+    pos: {x: 1668, y: 205.6}
+  - typeData: 0
+    nodeGUID: 140f6ec1-2169-4541-bd90-d1f9199c35c1
+    dialogueText: "YUKOKO : \"(Ca a march\xE9 ! Ils croient que je suis effectivement
+      un Samurai..! Mais maintenant.. Je dois vite le purifier sinon il va me d\xE9chiqueter..!!)\""
+    pos: {x: 2099.2, y: 204}
+  - typeData: 1
+    nodeGUID: 6ab8211a-14e3-4720-9e1a-0d533649e443
+    dialogueText: CHOIX SELON CLASSE
+    pos: {x: 3080, y: 203.2}
+  - typeData: 0
+    nodeGUID: 9643ce61-89a1-4fac-879e-32f07ce3d671
+    dialogueText: "(apr\xE8s avoir \xE9t\xE9 bless\xE9e) YUKIKO : (\"J'ai oubli\xE9e
+      qu'un Oni n'est pas une menace \xE0 sous estimer..)"
+    pos: {x: 3960, y: 95.2}
+  - typeData: 0
+    nodeGUID: ae68b64e-26f2-4268-b646-a29ae7c2736a
+    dialogueText: 'QUE FAIRE ? '
+    pos: {x: 3442.4, y: 309.6}
+  - typeData: 0
+    nodeGUID: 4078bf81-922b-4ae7-99e8-df708f4b9932
+    dialogueText: "YUKIKO : \"(Si j'essaye de fuir je vais revenir au foyer, mon
+      regret sera si grand que m\xEAme le reflet de l'eau me laissera pas me regarder..)\""
+    pos: {x: 3846.4, y: 423.2}
+  - typeData: 0
+    nodeGUID: 6fa037b2-9849-4931-a777-8b58bd707315
+    dialogueText: "YUKIKO : \"Que le Jigoku te r\xE9clame, et que cette purification
+      puisse rendre y faire retourner ton \xE2me ! Cette poudre sacr\xE9e te rendra
+      poussi\xE8re !\" "
+    pos: {x: 3840, y: 254.4}
+  - typeData: 0
+    nodeGUID: 27eaf5a1-aec8-4806-8bdb-94fa28fa67f4
+    dialogueText: "ONI : \"Le Jigoku ? Cette purification ? Penses-tu vraiment survivre
+      alors que je peut arracher ta bouche pour arr\xEAter ta mascarade ?\""
+    pos: {x: 4814.4004, y: 255.20001}
+  - typeData: 0
+    nodeGUID: 1cc5a59d-58a1-40d7-8786-5af8365a2216
+    dialogueText: "YUKIKO : \"(Rien de se passe..? Pourtant Kanbo m'a dit que c'\xE9tait-)\""
+    pos: {x: 5795.2, y: 257.6}
+  - typeData: 0
+    nodeGUID: de69e243-e2b9-4054-927d-9976156a70c6
+    dialogueText: "YUKIKO : \"(Efficace.. Il a r\xE9ellement implos\xE9... Cette
+      poudre.. Elle est capable de miracle.. Dommage qu'il me reste qu'une seule
+      dose..)\""
+    pos: {x: 6350.4004, y: 260}
+  - typeData: 0
+    nodeGUID: e66fa74c-4d78-4158-a4c8-2c18d5074174
+    dialogueText: "??? : \"Donc ce n'\xE9tait pas qu'une impression, tu es bien la
+      soeur de Kanbo. Peu de personnes ont eu la main sur la poudre du Jinsei, et
+      pourtant elle viens juste d'\xEAtre utilis\xE9e, bien jou\xE9 Yukiko\""
+    pos: {x: 7190.4004, y: 260}
+  - typeData: 0
+    nodeGUID: c36e2fe4-3443-480c-a8dd-74662c3a3a91
+    dialogueText: "YUKIKO : \"Qui \xEAtes-vous pour \xEAtre au courant d'un \xE9l\xE9ment
+      aussi sacr\xE9 ?! Vous \xEAtes un proche de Kanbo ..?!\""
+    pos: {x: 8367.2, y: 259.2}
+  - typeData: 0
+    nodeGUID: c45c5c1c-7c59-4ab8-8713-de5f22e8ee8c
+    dialogueText: "SEIJO : \"Appelez moi Seijo, un simple moine qui redirige les
+      \xE2mes d\xE9sol\xE9s, mais surtout la vraie question est qu'est ce qui peut
+      mener une pr\xEAtresse de sortir de sa d\xE9meure dans l'obscurit\xE9\""
+    pos: {x: 9102.4, y: 258.4}
+  - typeData: 0
+    nodeGUID: f1badfe3-c042-4952-9e9f-a756edfe24c5
+    dialogueText: "YUKIKO : \".... Kanbo est parti, tout \xE7a \xE0 cause des Oni..
+      Il est dans mon devoir de r\xE9aliser sa qu\xEAte abandonn\xE9e et de sauver
+      la citadelle comme on lui avait ordonn\xE9.. "
+    pos: {x: 10214.4, y: 258.4}
+  - typeData: 0
+    nodeGUID: b70c0ff7-e519-493c-9c81-c3cb17d0cb3b
+    dialogueText: "SEIJO : \"Je suis d\xE9sol\xE9 de cette nouvelle.. vous \xEAtes
+      donc l'une des seules \xE0 r\xE9ellement savoir comment vous d\xE9barrassez
+      des esprits qui nous hantent. "
+    pos: {x: 11790.4, y: 259.2}
+  - typeData: 0
+    nodeGUID: 64ef4361-2b65-4760-b48c-8018a1daef5a
+    dialogueText: "SEIJO : \"La v\xF4tre est remarquable, Yukiko, celle de votre
+      fr\xE8re aussi, m\xEAme si il lui arrivait parfois de voler ma fl\xFBte pour
+      y jouer et la flagiliser claqueler malgr\xE9 que je lui dit sans cesse qu'elle
+      est tr\xE8s dur \xE0 se la payer.\""
+    pos: {x: 14254.4, y: 259.2}
+  - typeData: 0
+    nodeGUID: 6ee502ff-c997-41a6-8450-753f550c2178
+    dialogueText: "YUKIKO : \"Ah..? Il a vraiment fait \xE7a ..? Je suis d\xE9sol\xE9...!
+      Sans doute qu'il voulait se faire pardonner, et \xE7a par tout les moyens.
+      \""
+    pos: {x: 15478.4, y: 258.4}
+  - typeData: 0
+    nodeGUID: ec10a3aa-1ac7-4bb2-8de3-05b808cc1ac1
+    dialogueText: "SEIJO : \"Tout est pardonn\xE9 pretr\xEAsse, je m'en vais, toujours
+      \xE0 chercher la bonne mati\xE8re pour que ma fl\xFBte soit r\xE9par\xE9e.
+      Je vous souhaite bon vent pour votre qu\xEAte, et surtout, je vous souhaite
+      de ne pas sombrer.\""
+    pos: {x: 16254.4, y: 258.4}
+  - typeData: 0
+    nodeGUID: 873d11aa-f939-4fc4-9c1f-01ece458a84c
+    dialogueText: "YUKIKO : \"C'est bien la premi\xE8re fois que je vois un Komuso..
+      J'aimerais trop avoir leur pannier et leurs s\xE9r\xE9nit\xE9s.. Savoir se
+      reposer et ainsi se purifier.. Mais bon.. Cesse de divaguer ! J'ai une recette
+      \xE0 retrouver !\""
+    pos: {x: 17478.398, y: 260}
+  - typeData: 1
+    nodeGUID: 92b295e4-30d0-4065-9788-43db8e8d2404
+    dialogueText: SET HUD INTERACTION
+    pos: {x: -949.6, y: 382.4}
+  - typeData: 0
+    nodeGUID: 051b2055-aea2-41ce-8fc8-d2df57ea920b
+    dialogueText: "YUKIKO : \"(Je suis pas s\xFBre.. Mais peut-\xEAtre que \xE7a
+      va marcher..)\""
+    pos: {x: -1468, y: 382.4}
+  - typeData: 0
+    nodeGUID: 9932b514-3790-47a3-99ac-47ca330334b7
+    dialogueText: "(Yukiko touche le chapeau de samurai et le mini couteau pour le
+      r\xE9cup\xE9rer)"
+    pos: {x: -1944.8, y: 383.2}
+  - typeData: 0
+    nodeGUID: 05c45c2c-37a8-4639-aa2a-748bc3d466a7
+    dialogueText: "YUKIKO : \"(Quelqu'un se fait attaquer ! Et au vu du bruit, par
+      un Oni ! Mince.. Mince.. Il faut absolument que j'arrive \xE0 l'attirer vers
+      moi avant qu'il ne tue un innocent. Mais comment..)\""
+    pos: {x: -3781.6, y: 379.2}
+  - typeData: 0
+    nodeGUID: 1b6801e3-3d42-4686-90e1-509c0e643a9a
+    dialogueText: '??? : "A l''aide !"'
+    pos: {x: -4316, y: 375.2}
+  - typeData: 0
+    nodeGUID: 62f8dd2e-5924-469b-8940-9337c8718a65
+    dialogueText: "YUKIKO : \"Kanbo... P\xE8re ne voulait pas laisser partir..  Malgr\xE9
+      que je sois la derni\xE8re \xE0 pouvoir agir dans la famille..\""
+    pos: {x: -5112, y: 374.4}
+  - typeData: 0
+    nodeGUID: 34172d16-e705-42b2-9aae-22521134fab0
+    dialogueText: "YUKIKO : \"J'ai r\xE9ussi \xE0 fuir mon foyer.. Mais \xE0 quel
+      prix.. Et \xE0 quel risque.. Les Oni semblent r\xF4der la nuit..\""
+    pos: {x: -5772, y: 373.6}
+  - typeData: 1
+    nodeGUID: 1e79364c-cc2e-49c9-b0db-6d5ede320ce3
+    dialogueText: SHOW SamouraiEpee
+    pos: {x: -2545.6, y: 381.6}
+  - typeData: 0
+    nodeGUID: d6d28c59-f30c-4c02-ad3d-6b266f66c01d
+    dialogueText: 'YUKIKO : "TES MENACES NE SONT RIEN FACE A MON HONNEUR, ONI"'
+    pos: {x: 3466.4, y: 96}
+  - typeData: 1
+    nodeGUID: ce587e26-a9de-490e-b145-d29b9ef78be9
+    dialogueText: LOAD SCENE Nuit1
+    pos: {x: 18719.2, y: 260}
+  - typeData: 1
+    nodeGUID: 6480c029-d0b7-47b0-ac6c-53788627353b
+    dialogueText: CHOIX SELON CLASSE
+    pos: {x: 363.2, y: 381.6}
+  - typeData: 0
+    nodeGUID: 837acca3-8bc8-4b4a-bab5-a3d21ed3e55b
+    dialogueText: "YUKIKO : \"(Si le ONI voit un samurai le provoquer, peut \xEAtre
+      qu'il va venir, et donc se d\xE9sint\xE9resser de l'innocent..? Autant le faire,
+      tant pis des cons\xE9quences..!)\""
+    pos: {x: -628.8, y: 381.6}
+  - typeData: 0
+    nodeGUID: e96086c4-76bd-403b-a3a7-08157dca52f4
+    dialogueText: "Je sais que la poudre \xE0 une recette qui a \xE9t\xE9 une fois
+      d\xE9crite, mais tout ses instructions ont \xE9t\xE9 br\xFBl\xE9es.\""
+    pos: {x: 11138.4, y: 258.4}
+  - typeData: 0
+    nodeGUID: 0819f8c3-2854-4a16-8507-46b008196449
+    dialogueText: "Mais sachez faire vite, apr\xE8s deux nuits, la barri\xE8re de
+      poudre du Jinsei c\xE8dera et nous seront tous condamn\xE9es. N'ayez pas le
+      m\xEAme destin que votre fraternel.\" "
+    pos: {x: 12619.2, y: 259.2}
+  - typeData: 0
+    nodeGUID: 1f9b2b21-d73d-4df9-a2c6-6f7f603b05aa
+    dialogueText: "YUKIKO : \"Je ferai de mon possible.. pour ne pas que Kanbo ne
+      soit qu'une autre \xE2me perdu parmis tant d'autres..\""
+    pos: {x: 13550.4, y: 259.2}
+  - typeData: 1
+    nodeGUID: 0a53f235-6257-42be-939c-3925f89de90e
+    dialogueText: EMOTION Triste
+    pos: {x: -5258.4, y: 249.6}
+  - typeData: 1
+    nodeGUID: 71592f41-9379-48e1-8668-c03e55761a85
+    dialogueText: EMOTION Enerve
+    pos: {x: -4441.5996, y: 223.2}
+  linksData:
+  - originGUID: c70d6ea2-412b-4725-abdf-8862729412b8
+    targetGUID: 34172d16-e705-42b2-9aae-22521134fab0
+    portName: Next
+    textOption: 
+  - originGUID: 238b99aa-5adb-40b2-921b-2910872e7051
+    targetGUID: 2ff988e7-b43e-46af-8357-b54bd4079d6b
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 2ff988e7-b43e-46af-8357-b54bd4079d6b
+    targetGUID: 6cf2ed99-078e-4ceb-87c9-2cf6af9c0dca
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 6cf2ed99-078e-4ceb-87c9-2cf6af9c0dca
+    targetGUID: 140f6ec1-2169-4541-bd90-d1f9199c35c1
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 140f6ec1-2169-4541-bd90-d1f9199c35c1
+    targetGUID: 6ab8211a-14e3-4720-9e1a-0d533649e443
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 6ab8211a-14e3-4720-9e1a-0d533649e443
+    targetGUID: d6d28c59-f30c-4c02-ad3d-6b266f66c01d
+    portName: Samourai
+    textOption: 
+  - originGUID: 6ab8211a-14e3-4720-9e1a-0d533649e443
+    targetGUID: ae68b64e-26f2-4268-b646-a29ae7c2736a
+    portName: Pretresse
+    textOption: 
+  - originGUID: 9643ce61-89a1-4fac-879e-32f07ce3d671
+    targetGUID: 140f6ec1-2169-4541-bd90-d1f9199c35c1
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: ae68b64e-26f2-4268-b646-a29ae7c2736a
+    targetGUID: 6fa037b2-9849-4931-a777-8b58bd707315
+    portName: Choice 1
+    textOption: Purifier
+  - originGUID: ae68b64e-26f2-4268-b646-a29ae7c2736a
+    targetGUID: 4078bf81-922b-4ae7-99e8-df708f4b9932
+    portName: Choice 2
+    textOption: Fuir
+  - originGUID: 4078bf81-922b-4ae7-99e8-df708f4b9932
+    targetGUID: ae68b64e-26f2-4268-b646-a29ae7c2736a
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 6fa037b2-9849-4931-a777-8b58bd707315
+    targetGUID: 27eaf5a1-aec8-4806-8bdb-94fa28fa67f4
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 27eaf5a1-aec8-4806-8bdb-94fa28fa67f4
+    targetGUID: 1cc5a59d-58a1-40d7-8786-5af8365a2216
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 1cc5a59d-58a1-40d7-8786-5af8365a2216
+    targetGUID: de69e243-e2b9-4054-927d-9976156a70c6
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: de69e243-e2b9-4054-927d-9976156a70c6
+    targetGUID: e66fa74c-4d78-4158-a4c8-2c18d5074174
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: e66fa74c-4d78-4158-a4c8-2c18d5074174
+    targetGUID: c36e2fe4-3443-480c-a8dd-74662c3a3a91
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: c36e2fe4-3443-480c-a8dd-74662c3a3a91
+    targetGUID: c45c5c1c-7c59-4ab8-8713-de5f22e8ee8c
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: c45c5c1c-7c59-4ab8-8713-de5f22e8ee8c
+    targetGUID: f1badfe3-c042-4952-9e9f-a756edfe24c5
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: f1badfe3-c042-4952-9e9f-a756edfe24c5
+    targetGUID: e96086c4-76bd-403b-a3a7-08157dca52f4
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: b70c0ff7-e519-493c-9c81-c3cb17d0cb3b
+    targetGUID: 0819f8c3-2854-4a16-8507-46b008196449
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 64ef4361-2b65-4760-b48c-8018a1daef5a
+    targetGUID: 6ee502ff-c997-41a6-8450-753f550c2178
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 6ee502ff-c997-41a6-8450-753f550c2178
+    targetGUID: ec10a3aa-1ac7-4bb2-8de3-05b808cc1ac1
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: ec10a3aa-1ac7-4bb2-8de3-05b808cc1ac1
+    targetGUID: 873d11aa-f939-4fc4-9c1f-01ece458a84c
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 873d11aa-f939-4fc4-9c1f-01ece458a84c
+    targetGUID: ce587e26-a9de-490e-b145-d29b9ef78be9
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 92b295e4-30d0-4065-9788-43db8e8d2404
+    targetGUID: 837acca3-8bc8-4b4a-bab5-a3d21ed3e55b
+    portName: Event_1
+    textOption: 
+  - originGUID: 051b2055-aea2-41ce-8fc8-d2df57ea920b
+    targetGUID: 92b295e4-30d0-4065-9788-43db8e8d2404
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 9932b514-3790-47a3-99ac-47ca330334b7
+    targetGUID: 051b2055-aea2-41ce-8fc8-d2df57ea920b
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 05c45c2c-37a8-4639-aa2a-748bc3d466a7
+    targetGUID: 1e79364c-cc2e-49c9-b0db-6d5ede320ce3
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 1b6801e3-3d42-4686-90e1-509c0e643a9a
+    targetGUID: 05c45c2c-37a8-4639-aa2a-748bc3d466a7
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 1e79364c-cc2e-49c9-b0db-6d5ede320ce3
+    targetGUID: 9932b514-3790-47a3-99ac-47ca330334b7
+    portName: Event_1
+    textOption: 
+  - originGUID: d6d28c59-f30c-4c02-ad3d-6b266f66c01d
+    targetGUID: 9643ce61-89a1-4fac-879e-32f07ce3d671
+    portName: Choice 1
+    textOption: Degats
+  - originGUID: 6480c029-d0b7-47b0-ac6c-53788627353b
+    targetGUID: 238b99aa-5adb-40b2-921b-2910872e7051
+    portName: Samourai
+    textOption: 
+  - originGUID: 6480c029-d0b7-47b0-ac6c-53788627353b
+    targetGUID: 837acca3-8bc8-4b4a-bab5-a3d21ed3e55b
+    portName: Pretresse
+    textOption: 
+  - originGUID: 837acca3-8bc8-4b4a-bab5-a3d21ed3e55b
+    targetGUID: 6480c029-d0b7-47b0-ac6c-53788627353b
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: e96086c4-76bd-403b-a3a7-08157dca52f4
+    targetGUID: b70c0ff7-e519-493c-9c81-c3cb17d0cb3b
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 0819f8c3-2854-4a16-8507-46b008196449
+    targetGUID: 1f9b2b21-d73d-4df9-a2c6-6f7f603b05aa
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 1f9b2b21-d73d-4df9-a2c6-6f7f603b05aa
+    targetGUID: 64ef4361-2b65-4760-b48c-8018a1daef5a
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 34172d16-e705-42b2-9aae-22521134fab0
+    targetGUID: 0a53f235-6257-42be-939c-3925f89de90e
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 0a53f235-6257-42be-939c-3925f89de90e
+    targetGUID: 62f8dd2e-5924-469b-8940-9337c8718a65
+    portName: Event_1
+    textOption: 
+  - originGUID: 62f8dd2e-5924-469b-8940-9337c8718a65
+    targetGUID: 71592f41-9379-48e1-8668-c03e55761a85
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 71592f41-9379-48e1-8668-c03e55761a85
+    targetGUID: 1b6801e3-3d42-4686-90e1-509c0e643a9a
+    portName: Event_1
+    textOption: 

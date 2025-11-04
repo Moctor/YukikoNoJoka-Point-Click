@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 1c49e2ce5d042554a892b07557eea591
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6063668110140267423
+    second: 2_tga_racism_0
+  - first:
+      213: -7649067923514430811
+    second: 2_tga_racism_1
+  - first:
+      213: -132559975193393749
+    second: 2_tga_racism_2
+  - first:
+      213: -1946309538331089125
+    second: 2_tga_racism_3
+  - first:
+      213: -2381170767937498212
+    second: 2_tga_racism_4
+  - first:
+      213: 1477413824410954494
+    second: 2_tga_racism_5
+  - first:
+      213: -8082451166061273220
+    second: 2_tga_racism_6
+  - first:
+      213: 5405362735003700127
+    second: 2_tga_racism_7
+  - first:
+      213: 6965787396504667528
+    second: 2_tga_racism_8
+  - first:
+      213: -7875130748697514975
+    second: 2_tga_racism_9
+  - first:
+      213: 52168546201186793
+    second: 2_tga_racism_10
+  - first:
+      213: 6615209643984678133
+    second: 2_tga_racism_11
+  - first:
+      213: 6052627492369837627
+    second: 2_tga_racism_12
+  - first:
+      213: -6310946821138663579
+    second: 2_tga_racism_13
+  - first:
+      213: 4410422802137630105
+    second: 2_tga_racism_14
+  - first:
+      213: -356749781925870022
+    second: 2_tga_racism_15
+  - first:
+      213: 2949491502888613229
+    second: 2_tga_racism_16
+  - first:
+      213: 3612474448315908594
+    second: 2_tga_racism_17
+  - first:
+      213: 7097914176325818571
+    second: 2_tga_racism_18
+  - first:
+      213: 7578977146892235781
+    second: 2_tga_racism_19
+  - first:
+      213: -4283255997472870287
+    second: 2_tga_racism_20
+  - first:
+      213: 7769407002669262842
+    second: 2_tga_racism_21
+  - first:
+      213: 7409712562957200579
+    second: 2_tga_racism_22
+  - first:
+      213: -1102435724039980316
+    second: 2_tga_racism_23
+  - first:
+      213: -8513729135453339280
+    second: 2_tga_racism_24
+  - first:
+      213: 306142933926674785
+    second: 2_tga_racism_25
+  - first:
+      213: -7604210490419506150
+    second: 2_tga_racism_26
+  - first:
+      213: 8661577584130320317
+    second: 2_tga_racism_27
+  - first:
+      213: 5282305003105143928
+    second: 2_tga_racism_28
+  - first:
+      213: 8340756211418664455
+    second: 2_tga_racism_29
+  - first:
+      213: -2421098746963017396
+    second: 2_tga_racism_30
+  - first:
+      213: -2097080591845670489
+    second: 2_tga_racism_31
+  - first:
+      213: 3179108483451247770
+    second: 2_tga_racism_32
+  - first:
+      213: 1739977321966515032
+    second: 2_tga_racism_33
+  - first:
+      213: 5470158328364121904
+    second: 2_tga_racism_34
+  - first:
+      213: -4209819691716605043
+    second: 2_tga_racism_35
+  - first:
+      213: 7615852653290874982
+    second: 2_tga_racism_36
+  - first:
+      213: -4316660900727904995
+    second: 2_tga_racism_37
+  - first:
+      213: 1035294037151431662
+    second: 2_tga_racism_38
+  - first:
+      213: 2106535044484889590
+    second: 2_tga_racism_39
+  - first:
+      213: 183078009865094245
+    second: 2_tga_racism_40
+  - first:
+      213: 6393721211034980543
+    second: 2_tga_racism_41
+  - first:
+      213: 2186138338162835798
+    second: 2_tga_racism_42
+  - first:
+      213: 504173284088907254
+    second: 2_tga_racism_43
+  - first:
+      213: -7786004857681515522
+    second: 2_tga_racism_44
+  - first:
+      213: -7078847921381523909
+    second: 2_tga_racism_45
+  - first:
+      213: 1869938753799202506
+    second: 2_tga_racism_46
+  - first:
+      213: -7552024158853478459
+    second: 2_tga_racism_47
+  - first:
+      213: -4164980055887767961
+    second: 2_tga_racism_48
+  - first:
+      213: -3977493580946305413
+    second: 2_tga_racism_49
+  - first:
+      213: 6443444546444915401
+    second: 2_tga_racism_50
+  - first:
+      213: 8570739159153045489
+    second: 2_tga_racism_51
+  - first:
+      213: 82315444100143891
+    second: 2_tga_racism_52
+  - first:
+      213: 8292273524037365122
+    second: 2_tga_racism_53
+  - first:
+      213: 5710295855132838994
+    second: 2_tga_racism_54
+  - first:
+      213: 6287786858790148828
+    second: 2_tga_racism_55
+  - first:
+      213: -4242419937278919590
+    second: 2_tga_racism_56
+  - first:
+      213: -5185978678040315271
+    second: 2_tga_racism_57
+  - first:
+      213: -3581733355655737646
+    second: 2_tga_racism_58
+  - first:
+      213: 1856877770558728897
+    second: 2_tga_racism_59
+  - first:
+      213: 7254993638094396554
+    second: 2_tga_racism_60
+  - first:
+      213: -694266669956828396
+    second: 2_tga_racism_61
+  - first:
+      213: -5617552682598041316
+    second: 2_tga_racism_62
+  - first:
+      213: -5689788815578788697
+    second: 2_tga_racism_63
+  - first:
+      213: -4938599833817508207
+    second: 2_tga_racism_64
+  - first:
+      213: 5765013556382918461
+    second: 2_tga_racism_65
+  - first:
+      213: -2484487349364964129
+    second: 2_tga_racism_66
+  - first:
+      213: 6345301696821470344
+    second: 2_tga_racism_67
+  - first:
+      213: 2215522107211208323
+    second: 2_tga_racism_68
+  - first:
+      213: 8962431868766567559
+    second: 2_tga_racism_69
+  - first:
+      213: -2384005970569833325
+    second: 2_tga_racism_70
+  - first:
+      213: 215856054593867266
+    second: 2_tga_racism_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2_tga_racism_0
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 995
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164a9330bf589dba0800000000000000
+      internalID: -6063668110140267423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_1
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 999
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa6614004d09d590800000000000000
+      internalID: -7649067923514430811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_2
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 997
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c927a76d092ef0800000000000000
+      internalID: -132559975193393749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_3
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 985
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1722d079c15df4e0800000000000000
+      internalID: -1946309538331089125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_4
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 985
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939a837dc164fed0800000000000000
+      internalID: -2381170767937498212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_5
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 972
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa244eab04d08410800000000000000
+      internalID: 1477413824410954494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_6
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 978
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fd974bc7d55df80800000000000000
+      internalID: -8082451166061273220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_7
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 980
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b8706c4c4b30b40800000000000000
+      internalID: 5405362735003700127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_8
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 971
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885cd851bb27ba060800000000000000
+      internalID: 6965787396504667528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_9
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 963
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ce02cee4ae5b290800000000000000
+      internalID: -7875130748697514975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_10
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 843
+        width: 24
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e135c0340759b000800000000000000
+      internalID: 52168546201186793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_11
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 960
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fce1705f12fdcb50800000000000000
+      internalID: 6615209643984678133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_12
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 964
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ea778d2a04ff350800000000000000
+      internalID: 6052627492369837627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_13
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 943
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56736a19d430b68a0800000000000000
+      internalID: -6310946821138663579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_14
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 955
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99542becb28f43d30800000000000000
+      internalID: 4410422802137630105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_15
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 946
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a364c96a6f19c0bf0800000000000000
+      internalID: -356749781925870022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_16
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 941
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6575b115e2bee820800000000000000
+      internalID: 2949491502888613229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_17
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 912
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f18b0cfe56122230800000000000000
+      internalID: 3612474448315908594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_18
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 932
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc81c16465bd08260800000000000000
+      internalID: 7097914176325818571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_19
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 922
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504b0595f8fed2960800000000000000
+      internalID: 7578977146892235781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_20
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 901
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170719c2d51de84c0800000000000000
+      internalID: -4283255997472870287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_21
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 913
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a88d318a72db60800000000000000
+      internalID: 7769407002669262842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_22
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 909
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc20d2515694d660800000000000000
+      internalID: 7409712562957200579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_23
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 849
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea75e8cc8c53b0f0800000000000000
+      internalID: -1102435724039980316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_24
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 861
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071096f757829d980800000000000000
+      internalID: -8513729135453339280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_25
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 852
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161023b5063af3400800000000000000
+      internalID: 306142933926674785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_26
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 799
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141f3909da687690800000000000000
+      internalID: -7604210490419506150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_27
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 841
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7e298fbea143870800000000000000
+      internalID: 8661577584130320317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_28
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 833
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc959d9648e4940800000000000000
+      internalID: 5282305003105143928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_29
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 821
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e0eb3459150c370800000000000000
+      internalID: 8340756211418664455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_30
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 697
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4140256487866ed0800000000000000
+      internalID: -2421098746963017396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_31
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 807
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a14ca1005ca5e2e0800000000000000
+      internalID: -2097080591845670489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_32
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 796
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cda8272567e1c20800000000000000
+      internalID: 3179108483451247770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_33
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 807
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853bc01d724a52810800000000000000
+      internalID: 1739977321966515032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_34
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 793
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fb94b7408e9eb40800000000000000
+      internalID: 5470158328364121904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_35
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 793
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b89c28b47b395c0800000000000000
+      internalID: -4209819691716605043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_36
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 788
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6686e1d33a1f0b960800000000000000
+      internalID: 7615852653290874982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_37
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 799
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15ab4c08c32814c0800000000000000
+      internalID: -4316660900727904995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_38
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 793
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebbd7a017a1e5e00800000000000000
+      internalID: 1035294037151431662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_39
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 792
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbfe69467aeb3d10800000000000000
+      internalID: 2106535044484889590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_40
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 776
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564c130ea7c6a8200800000000000000
+      internalID: 183078009865094245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_41
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 784
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0de98e09f0bb850800000000000000
+      internalID: 6393721211034980543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_42
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 771
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6510f046c39b65e10800000000000000
+      internalID: 2186138338162835798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_43
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 778
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f58c5f3eee2ff600800000000000000
+      internalID: 504173284088907254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_44
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 768
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb6d6e75dd82f390800000000000000
+      internalID: -7786004857681515522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_45
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 761
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eba032251e2cd90800000000000000
+      internalID: -7078847921381523909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_46
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 770
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac620f3a36b53f910800000000000000
+      internalID: 1869938753799202506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_47
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 764
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7ce543a02d13790800000000000000
+      internalID: -7552024158853478459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_48
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 751
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661938c4b40336c0800000000000000
+      internalID: -4164980055887767961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_49
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 771
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e8c4b69aa1dc8c0800000000000000
+      internalID: -3977493580946305413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_50
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 750
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2f6c81da6bb6950800000000000000
+      internalID: 6443444546444915401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_51
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe8d30bd161f670800000000000000
+      internalID: 8570739159153045489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_52
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 747
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b1e15d571742100800000000000000
+      internalID: 82315444100143891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_53
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 741
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28daf94f5d2141370800000000000000
+      internalID: 8292273524037365122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_54
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 730
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c049763db0f3f40800000000000000
+      internalID: 5710295855132838994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_55
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 737
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda5e8d75d4b24750800000000000000
+      internalID: 6287786858790148828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_56
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 747
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c747a5b85ef15c0800000000000000
+      internalID: -4242419937278919590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_57
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 744
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a38aa6ed3b708b0800000000000000
+      internalID: -5185978678040315271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_58
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 730
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec8f76d702b4ec0800000000000000
+      internalID: -3581733355655737646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_59
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 716
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae8718e74f4c910800000000000000
+      internalID: 1856877770558728897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_60
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 731
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd556764aeea460800000000000000
+      internalID: 7254993638094396554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_61
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 730
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41374dd54287d56f0800000000000000
+      internalID: -694266669956828396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_62
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 716
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1973b629917a02b0800000000000000
+      internalID: -5617552682598041316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_63
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 699
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac8f60d73fc901b0800000000000000
+      internalID: -5689788815578788697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_64
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 709
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1961181fd91967bb0800000000000000
+      internalID: -4938599833817508207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_65
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 693
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37e3810941710050800000000000000
+      internalID: 5765013556382918461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_66
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 689
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4462c4be3558dd0800000000000000
+      internalID: -2484487349364964129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_67
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 685
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8842abf364a0f0850800000000000000
+      internalID: 6345301696821470344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_68
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 685
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38659504e9d1fbe10800000000000000
+      internalID: 2215522107211208323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_69
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 700
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb875bc44f06c70800000000000000
+      internalID: 8962431868766567559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_70
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 695
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39456c5633f4aeed0800000000000000
+      internalID: -2384005970569833325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_tga_racism_71
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 687
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e4fa020ffdef200800000000000000
+      internalID: 215856054593867266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2_tga_racism_0: -6063668110140267423
+      2_tga_racism_1: -7649067923514430811
+      2_tga_racism_10: 52168546201186793
+      2_tga_racism_11: 6615209643984678133
+      2_tga_racism_12: 6052627492369837627
+      2_tga_racism_13: -6310946821138663579
+      2_tga_racism_14: 4410422802137630105
+      2_tga_racism_15: -356749781925870022
+      2_tga_racism_16: 2949491502888613229
+      2_tga_racism_17: 3612474448315908594
+      2_tga_racism_18: 7097914176325818571
+      2_tga_racism_19: 7578977146892235781
+      2_tga_racism_2: -132559975193393749
+      2_tga_racism_20: -4283255997472870287
+      2_tga_racism_21: 7769407002669262842
+      2_tga_racism_22: 7409712562957200579
+      2_tga_racism_23: -1102435724039980316
+      2_tga_racism_24: -8513729135453339280
+      2_tga_racism_25: 306142933926674785
+      2_tga_racism_26: -7604210490419506150
+      2_tga_racism_27: 8661577584130320317
+      2_tga_racism_28: 5282305003105143928
+      2_tga_racism_29: 8340756211418664455
+      2_tga_racism_3: -1946309538331089125
+      2_tga_racism_30: -2421098746963017396
+      2_tga_racism_31: -2097080591845670489
+      2_tga_racism_32: 3179108483451247770
+      2_tga_racism_33: 1739977321966515032
+      2_tga_racism_34: 5470158328364121904
+      2_tga_racism_35: -4209819691716605043
+      2_tga_racism_36: 7615852653290874982
+      2_tga_racism_37: -4316660900727904995
+      2_tga_racism_38: 1035294037151431662
+      2_tga_racism_39: 2106535044484889590
+      2_tga_racism_4: -2381170767937498212
+      2_tga_racism_40: 183078009865094245
+      2_tga_racism_41: 6393721211034980543
+      2_tga_racism_42: 2186138338162835798
+      2_tga_racism_43: 504173284088907254
+      2_tga_racism_44: -7786004857681515522
+      2_tga_racism_45: -7078847921381523909
+      2_tga_racism_46: 1869938753799202506
+      2_tga_racism_47: -7552024158853478459
+      2_tga_racism_48: -4164980055887767961
+      2_tga_racism_49: -3977493580946305413
+      2_tga_racism_5: 1477413824410954494
+      2_tga_racism_50: 6443444546444915401
+      2_tga_racism_51: 8570739159153045489
+      2_tga_racism_52: 82315444100143891
+      2_tga_racism_53: 8292273524037365122
+      2_tga_racism_54: 5710295855132838994
+      2_tga_racism_55: 6287786858790148828
+      2_tga_racism_56: -4242419937278919590
+      2_tga_racism_57: -5185978678040315271
+      2_tga_racism_58: -3581733355655737646
+      2_tga_racism_59: 1856877770558728897
+      2_tga_racism_6: -8082451166061273220
+      2_tga_racism_60: 7254993638094396554
+      2_tga_racism_61: -694266669956828396
+      2_tga_racism_62: -5617552682598041316
+      2_tga_racism_63: -5689788815578788697
+      2_tga_racism_64: -4938599833817508207
+      2_tga_racism_65: 5765013556382918461
+      2_tga_racism_66: -2484487349364964129
+      2_tga_racism_67: 6345301696821470344
+      2_tga_racism_68: 2215522107211208323
+      2_tga_racism_69: 8962431868766567559
+      2_tga_racism_7: 5405362735003700127
+      2_tga_racism_70: -2384005970569833325
+      2_tga_racism_71: 215856054593867266
+      2_tga_racism_8: 6965787396504667528
+      2_tga_racism_9: -7875130748697514975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a43daeb9c52450a48a0842685ec8a583, type: 3}
+  m_Name: New Narrative
+  m_EditorClassIdentifier: 
+  nodesData:
+  - typeData: 0
+    nodeGUID: ba4671fa-8b7a-443a-ad30-bd1ae5b8fdc7
+    dialogueText: ENTRYPOINT
+    pos: {x: 100, y: 200}
+  - typeData: 0
+    nodeGUID: a0c34076-09b8-4058-b792-301a6eae971c
+    dialogueText: guliguli
+    pos: {x: 1886, y: 534}
+  - typeData: 1
+    nodeGUID: c05de704-ba18-4961-86c9-14d216007d69
+    dialogueText: HEBEBEBE
+    pos: {x: 1185, y: 611}
+  - typeData: 1
+    nodeGUID: f2e4a3b3-0193-4b5d-b0e6-5812a158a164
+    dialogueText: Lingang
+    pos: {x: 1710, y: 352}
+  - typeData: 0
+    nodeGUID: 9c720e14-f225-4f73-9959-a43827abc9ec
+    dialogueText: BlaBlaBla
+    pos: {x: 449, y: 265}
+  - typeData: 0
+    nodeGUID: 7b90dc0e-2431-474c-b10b-c843ec4a0fab
+    dialogueText: BluBluBlu
+    pos: {x: 1439, y: 217}
+  linksData:
+  - originGUID: ba4671fa-8b7a-443a-ad30-bd1ae5b8fdc7
+    targetGUID: 9c720e14-f225-4f73-9959-a43827abc9ec
+    portName: Next
+    textOption: 
+  - originGUID: 9c720e14-f225-4f73-9959-a43827abc9ec
+    targetGUID: 7b90dc0e-2431-474c-b10b-c843ec4a0fab
+    portName: Choice 1
+    textOption: First
+  - originGUID: 9c720e14-f225-4f73-9959-a43827abc9ec
+    targetGUID: c05de704-ba18-4961-86c9-14d216007d69
+    portName: Choice 2
+    textOption: Second
+  - originGUID: c05de704-ba18-4961-86c9-14d216007d69
+    targetGUID: a0c34076-09b8-4058-b792-301a6eae971c
+    portName: Fifth_Event
+    textOption: 
+  - originGUID: c05de704-ba18-4961-86c9-14d216007d69
+    targetGUID: 7b90dc0e-2431-474c-b10b-c843ec4a0fab
+    portName: SIxth_Event
+    textOption: 
+  - originGUID: f2e4a3b3-0193-4b5d-b0e6-5812a158a164
+    targetGUID: 9c720e14-f225-4f73-9959-a43827abc9ec
+    portName: Fourth_Event
+    textOption: 
+  - originGUID: 7b90dc0e-2431-474c-b10b-c843ec4a0fab
+    targetGUID: f2e4a3b3-0193-4b5d-b0e6-5812a158a164
+    portName: Choice 1
+    textOption: Third

@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: e838d7cb61192214b90b850c2abd001b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3045315450288636270
+    second: transition_arbres_droite_0
+  - first:
+      213: 6326248095659883079
+    second: transition_arbres_droite_1
+  - first:
+      213: 6629871705635953566
+    second: transition_arbres_droite_2
+  - first:
+      213: -9063627798735509942
+    second: transition_arbres_droite_3
+  - first:
+      213: 716986760304147008
+    second: transition_arbres_droite_4
+  - first:
+      213: 3123734162326581521
+    second: transition_arbres_droite_5
+  - first:
+      213: 5178216295915317484
+    second: transition_arbres_droite_6
+  - first:
+      213: -7435051652334784422
+    second: transition_arbres_droite_7
+  - first:
+      213: -7309254328689162254
+    second: transition_arbres_droite_8
+  - first:
+      213: -2969566118694110368
+    second: transition_arbres_droite_9
+  - first:
+      213: -7266762776308499020
+    second: transition_arbres_droite_10
+  - first:
+      213: 2887440725573226944
+    second: transition_arbres_droite_11
+  - first:
+      213: 476087969742794125
+    second: transition_arbres_droite_12
+  - first:
+      213: -2989756564844542056
+    second: transition_arbres_droite_13
+  - first:
+      213: 6935679627537316155
+    second: transition_arbres_droite_14
+  - first:
+      213: -6025904619367033604
+    second: transition_arbres_droite_15
+  - first:
+      213: 3107890785515855530
+    second: transition_arbres_droite_16
+  - first:
+      213: 1970433972986569679
+    second: transition_arbres_droite_17
+  - first:
+      213: 8013589634908308696
+    second: transition_arbres_droite_18
+  - first:
+      213: 3070284143418960354
+    second: transition_arbres_droite_19
+  - first:
+      213: -6915764608909763274
+    second: transition_arbres_droite_20
+  - first:
+      213: -2808549935646430041
+    second: transition_arbres_droite_21
+  - first:
+      213: 3714533752862834432
+    second: transition_arbres_droite_22
+  - first:
+      213: 910208182713689033
+    second: transition_arbres_droite_23
+  - first:
+      213: 7677587712543364732
+    second: transition_arbres_droite_24
+  - first:
+      213: 6580472099889307659
+    second: transition_arbres_droite_25
+  - first:
+      213: 7809660992928835036
+    second: transition_arbres_droite_26
+  - first:
+      213: -3643905725807204796
+    second: transition_arbres_droite_27
+  - first:
+      213: -1440306887123431269
+    second: transition_arbres_droite_28
+  - first:
+      213: -8104344945554975204
+    second: transition_arbres_droite_29
+  - first:
+      213: 7520988809445741626
+    second: transition_arbres_droite_30
+  - first:
+      213: 4888642472714958445
+    second: transition_arbres_droite_31
+  - first:
+      213: -3087644900712425318
+    second: transition_arbres_droite_32
+  - first:
+      213: 1269825772965581100
+    second: transition_arbres_droite_33
+  - first:
+      213: -5176309038216523839
+    second: transition_arbres_droite_34
+  - first:
+      213: 5334908401521618405
+    second: transition_arbres_droite_35
+  - first:
+      213: -8339337922044390
+    second: transition_arbres_droite_36
+  - first:
+      213: -6716334723734901544
+    second: transition_arbres_droite_37
+  - first:
+      213: 8660634991115329193
+    second: transition_arbres_droite_38
+  - first:
+      213: 7717156248705852573
+    second: transition_arbres_droite_39
+  - first:
+      213: 865093948339782763
+    second: transition_arbres_droite_40
+  - first:
+      213: 1458040400408604502
+    second: transition_arbres_droite_41
+  - first:
+      213: -1301278470664181938
+    second: transition_arbres_droite_42
+  - first:
+      213: -7558922831170518922
+    second: transition_arbres_droite_43
+  - first:
+      213: 808073989052850406
+    second: transition_arbres_droite_44
+  - first:
+      213: -7752699887751799133
+    second: transition_arbres_droite_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transition_arbres_droite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 528
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61867b6442234a20800000000000000
+      internalID: 3045315450288636270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 976
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a7cc600295bc750800000000000000
+      internalID: 6326248095659883079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 969
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b18d09039020c50800000000000000
+      internalID: 6629871705635953566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 971
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46a308c986873280800000000000000
+      internalID: -9063627798735509942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_4
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 0
+        width: 1142
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a3694e8af33f900800000000000000
+      internalID: 716986760304147008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 959
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117a3e9babb95b20800000000000000
+      internalID: 3123734162326581521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 968
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8eb282948bcd740800000000000000
+      internalID: 5178216295915317484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 965
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5077ef2ae361d890800000000000000
+      internalID: -7435051652334784422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 962
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f70f750aef409a90800000000000000
+      internalID: -7309254328689162254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 960
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bb336395bf9c6d0800000000000000
+      internalID: -2969566118694110368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 958
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdb91381c5472b90800000000000000
+      internalID: -7266762776308499020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 942
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d9c5aa00421820800000000000000
+      internalID: 2887440725573226944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 928
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d2b5e6c776b9600800000000000000
+      internalID: 476087969742794125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 933
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8978c83ae304286d0800000000000000
+      internalID: -2989756564844542056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 921
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39764bdfdb704060800000000000000
+      internalID: 6935679627537316155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 855
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf41e30ecafaf5ca0800000000000000
+      internalID: -6025904619367033604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 855
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed16ff332712b20800000000000000
+      internalID: 3107890785515855530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 863
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3e9353243685b10800000000000000
+      internalID: 1970433972986569679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 851
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4467ca05df53f60800000000000000
+      internalID: 8013589634908308696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 858
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e960005927db9a20800000000000000
+      internalID: 3070284143418960354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 846
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d17bfbab44600a0800000000000000
+      internalID: -6915764608909763274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 850
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac29dfb6b60609d0800000000000000
+      internalID: -2808549935646430041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 849
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f769d84ccac8330800000000000000
+      internalID: 3714533752862834432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 844
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3ad4a0585b1ac00800000000000000
+      internalID: 910208182713689033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 854
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c761d02d8554c8a60800000000000000
+      internalID: 7677587712543364732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 848
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0065409288825b50800000000000000
+      internalID: 6580472099889307659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 854
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd56fb3bb4d716c60800000000000000
+      internalID: 7809660992928835036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 851
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ef327c0f3e6dc0800000000000000
+      internalID: -3643905725807204796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 828
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9095796480030ce0800000000000000
+      internalID: -1440306887123431269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 844
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1696fee535978f80800000000000000
+      internalID: -8104344945554975204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 836
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3493ba697bef5860800000000000000
+      internalID: 7520988809445741626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 839
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ff048d62f7d340800000000000000
+      internalID: 4888642472714958445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 831
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a985d74625b7625d0800000000000000
+      internalID: -3087644900712425318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 815
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21df3c00d35f9110800000000000000
+      internalID: 1269825772965581100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 834
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfc571ea5e0a28b0800000000000000
+      internalID: -5176309038216523839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 814
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed61f5fce6690a40800000000000000
+      internalID: 5334908401521618405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 823
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e9e759a6f52eff0800000000000000
+      internalID: -8339337922044390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 812
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dce8274729cac2a0800000000000000
+      internalID: -6716334723734901544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 808
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae5fbe63a1c03870800000000000000
+      internalID: 8660634991115329193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_39
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 794
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d946c4098b8d81b60800000000000000
+      internalID: 7717156248705852573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_40
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 788
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b640220dc5e610c00800000000000000
+      internalID: 865093948339782763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 786
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fe586e4000c3410800000000000000
+      internalID: 1458040400408604502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 251
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47a23a102ee0fde0800000000000000
+      internalID: -1301278470664181938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670cd73ebbf491790800000000000000
+      internalID: -7558922831170518922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 583
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e06abdf20bd63b00800000000000000
+      internalID: 808073989052850406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transition_arbres_droite_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 586
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed7541780e86490800000000000000
+      internalID: -7752699887751799133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      transition_arbres_droite_0: 3045315450288636270
+      transition_arbres_droite_1: 6326248095659883079
+      transition_arbres_droite_10: -7266762776308499020
+      transition_arbres_droite_11: 2887440725573226944
+      transition_arbres_droite_12: 476087969742794125
+      transition_arbres_droite_13: -2989756564844542056
+      transition_arbres_droite_14: 6935679627537316155
+      transition_arbres_droite_15: -6025904619367033604
+      transition_arbres_droite_16: 3107890785515855530
+      transition_arbres_droite_17: 1970433972986569679
+      transition_arbres_droite_18: 8013589634908308696
+      transition_arbres_droite_19: 3070284143418960354
+      transition_arbres_droite_2: 6629871705635953566
+      transition_arbres_droite_20: -6915764608909763274
+      transition_arbres_droite_21: -2808549935646430041
+      transition_arbres_droite_22: 3714533752862834432
+      transition_arbres_droite_23: 910208182713689033
+      transition_arbres_droite_24: 7677587712543364732
+      transition_arbres_droite_25: 6580472099889307659
+      transition_arbres_droite_26: 7809660992928835036
+      transition_arbres_droite_27: -3643905725807204796
+      transition_arbres_droite_28: -1440306887123431269
+      transition_arbres_droite_29: -8104344945554975204
+      transition_arbres_droite_3: -9063627798735509942
+      transition_arbres_droite_30: 7520988809445741626
+      transition_arbres_droite_31: 4888642472714958445
+      transition_arbres_droite_32: -3087644900712425318
+      transition_arbres_droite_33: 1269825772965581100
+      transition_arbres_droite_34: -5176309038216523839
+      transition_arbres_droite_35: 5334908401521618405
+      transition_arbres_droite_36: -8339337922044390
+      transition_arbres_droite_37: -6716334723734901544
+      transition_arbres_droite_38: 8660634991115329193
+      transition_arbres_droite_39: 7717156248705852573
+      transition_arbres_droite_4: 716986760304147008
+      transition_arbres_droite_40: 865093948339782763
+      transition_arbres_droite_41: 1458040400408604502
+      transition_arbres_droite_42: -1301278470664181938
+      transition_arbres_droite_43: -7558922831170518922
+      transition_arbres_droite_44: 808073989052850406
+      transition_arbres_droite_45: -7752699887751799133
+      transition_arbres_droite_5: 3123734162326581521
+      transition_arbres_droite_6: 5178216295915317484
+      transition_arbres_droite_7: -7435051652334784422
+      transition_arbres_droite_8: -7309254328689162254
+      transition_arbres_droite_9: -2969566118694110368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

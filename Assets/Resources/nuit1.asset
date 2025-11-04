@@ -1,0 +1,386 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a43daeb9c52450a48a0842685ec8a583, type: 3}
+  m_Name: nuit1
+  m_EditorClassIdentifier: 
+  nodesData:
+  - typeData: 0
+    nodeGUID: 3ae8e624-73fd-48b7-9cee-b51e40bf7a74
+    dialogueText: ENTRYPOINT
+    pos: {x: 100, y: 200}
+  - typeData: 0
+    nodeGUID: c9cd50c7-4ccf-4fa2-846a-4f98fcc83959
+    dialogueText: "ARTISAN : \"C'est.. ferm\xE9. Je n'ai plus de mati\xE8re premi\xE8re..
+      avec quoi.. travailler.\""
+    pos: {x: 1799, y: 186}
+  - typeData: 0
+    nodeGUID: a413d3ca-742d-4a2c-88af-5197eee61239
+    dialogueText: "YUKIKO : \"(Un Artisan... Le pauvre malgr\xE9 sa vieillesse, il
+      a l'air de travailler jour et nuit.. Il doit savoir ce qui se passe.)\""
+    pos: {x: 2374, y: 184}
+  - typeData: 1
+    nodeGUID: f2917d42-3e8d-4e89-a53b-2fb8c4475036
+    dialogueText: SHOW Porte
+    pos: {x: 499, y: 190}
+  - typeData: 0
+    nodeGUID: b99369f2-60d3-4389-bc96-d5ffcb217a3b
+    dialogueText: "YUKIKO : \"(Il y a du bruit \xE0 travers la porte.. Oh non.. Par
+      tout les ciels, pas d'insecte..)"
+    pos: {x: 830, y: 191}
+  - typeData: 1
+    nodeGUID: 823f343f-b008-41a2-9aea-7c7b51c4f9d3
+    dialogueText: SET HUD INTERACTION
+    pos: {x: 1464, y: 188}
+  - typeData: 0
+    nodeGUID: 3113d9b0-ece1-46e3-a7ff-0c9383d555c5
+    dialogueText: 'Veuillez choisir une classe :    - S''inqueter ( Pretresse )  
+      - Demander ( Samourai ) '
+    pos: {x: 3207, y: 190}
+  - typeData: 0
+    nodeGUID: 910d433f-1efd-4d8b-830d-b559d58cd9e1
+    dialogueText: 'YUKIKO : "Artisan, ma lame ne suffit plus pour combattre les oni,
+      aurait-tu une autre solution ?"'
+    pos: {x: 4234, y: 58}
+  - typeData: 0
+    nodeGUID: 228c3d21-6c9b-4dfe-94da-c4cd9a39bf0c
+    dialogueText: "ARTISAN : \"Qu'est-ce que.. Vous comprenez pas.. dans \"c'est
+      ferm\xE9\"..\""
+    pos: {x: 4826, y: 158}
+  - typeData: 0
+    nodeGUID: bf598c61-7ea0-4213-912e-f7db6771f8a1
+    dialogueText: "YUKIKO : \"(Il semble m\xEAme pas faire attention \xE0 moi.. Et
+      le fait qu'il reste m\xEAme la nuit, l\xE0 ou tout oni peut venir chez lui..
+      le rend un peu suspect.. Cache-t'il quelques choses..?\")"
+    pos: {x: 5287, y: 160}
+  - typeData: 0
+    nodeGUID: 415b7c2c-7233-4f13-92bf-b15ea2f4e4dc
+    dialogueText: "YUKIKO : \"\xCAtes-vous en bonne sant\xE9, Sensei? (Quelques choses
+      cloche..)\""
+    pos: {x: 4240, y: 340}
+  - typeData: 1
+    nodeGUID: dbd8010d-e954-4431-ac2d-06a224669e0f
+    dialogueText: CHOIX SELON CLASSE
+    pos: {x: 6324, y: 159}
+  - typeData: 0
+    nodeGUID: 141f6104-94e8-42c7-ae54-44a5e4242141
+    dialogueText: "YUKIKO : \"Serais-vous au moins empathique pour r\xE9parer une
+      lame bris\xE9e ?\""
+    pos: {x: 6632, y: 299}
+  - typeData: 0
+    nodeGUID: 047ae74b-b106-459c-92bd-a7f17117cb04
+    dialogueText: 'ARTISAN : "..."'
+    pos: {x: 7178, y: 298}
+  - typeData: 0
+    nodeGUID: ea223f11-6d9e-4f74-ac2d-874fcc8c1f01
+    dialogueText: "YUKIKO :\"(J'ai pas \xE9t\xE9 assez convainquant je pense...)\""
+    pos: {x: 7494, y: 298}
+  - typeData: 0
+    nodeGUID: be01ac6b-64b7-4107-bb3b-44d4661df580
+    dialogueText: 'YUKIKO : "(Mais.. Ce sont des liens de vies ..! Hors de ma vue,
+      Oni ..!")'
+    pos: {x: 6762, y: 160}
+  - typeData: 0
+    nodeGUID: b1d69e96-320a-4008-88da-e408ef7460fa
+    dialogueText: "YUKIKO : \"C'est bon.. ! Vous \xEAtes lib\xE9r\xE9 Sensei..!\""
+    pos: {x: 7255, y: 160}
+  - typeData: 0
+    nodeGUID: 5a408a5e-5d48-47e1-85c2-90062626ea64
+    dialogueText: 'ARTISAN : ".... QU''AVEZ VOUS.. FAIT.....?"'
+    pos: {x: 7664, y: 162}
+  - typeData: 0
+    nodeGUID: cf02f8df-4276-4812-9fdc-b074d3df2e79
+    dialogueText: 'YUKIKO : "...Quoi..?"'
+    pos: {x: 7998, y: 163}
+  - typeData: 1
+    nodeGUID: 476bfadf-1231-41ee-a984-22cea8e20580
+    dialogueText: SHOW Marteau
+    pos: {x: 7111, y: -38}
+  - typeData: 0
+    nodeGUID: 9af5215e-957d-49aa-87c0-926858cc1911
+    dialogueText: 'A : "JE N''ARRIVE.. PLUS.. A UTILISER MON MARTEAU.. QU''AVEZ FOUS
+      FAIT SALE YOJO..?!"'
+    pos: {x: 8314, y: 166}
+  - typeData: 0
+    nodeGUID: 20903e0c-d9af-482b-8914-87732a8d9a00
+    dialogueText: "YUKIKO : \"Je n'ai que.. lib\xE9rer l'emprise du Oni de votre
+      \xE2me...Sensei.. \" "
+    pos: {x: 8852, y: 167}
+  - typeData: 0
+    nodeGUID: c82f5c98-bbc7-432e-ab3c-70fadb45ac39
+    dialogueText: "A : \"Vous.. Vous m'avez d\xE9truit.. la raison de son existence..
+      A cause de vous.. J'ai perdu toute l'\xE9nergie de ma forge... Que l'Hara-Kiri
+      puisse.. vous sourire avant.. votre prochain souffle...\""
+    pos: {x: 9326, y: 167}
+  - typeData: 0
+    nodeGUID: bbd87b28-27e7-4fd6-a4d2-498cadc6467c
+    dialogueText: 'Y : "(Jamais.. je pensais sauver quelqu''un.. pour qu''il me souhaite..
+      le suicide.. Qu''ai je.. fait de mal..")'
+    pos: {x: 10443, y: 171}
+  - typeData: 0
+    nodeGUID: 0a73ea25-499f-4ecf-b2ea-f3d026ae13cb
+    dialogueText: "A : \"Partez.. d'ici.. Que votre visage p\xE2le et sans empathie..
+      soit chass\xE9 de ma vie..\" "
+    pos: {x: 11058, y: 172}
+  - typeData: 0
+    nodeGUID: 199772d1-3f2e-4d94-874b-149d0a0dd324
+    dialogueText: "Y : \"(Ce n'est qu'une mauvaise passe.. Comme on dirait au temple..
+      Les humains peuvent \xEAtre tr\xE8s diff\xE9rents..certains sont gentils..
+      et d'autres.. sont aussi cruelles que des Oni..)\""
+    pos: {x: 12562, y: 174}
+  - typeData: 0
+    nodeGUID: c13912ac-ceba-4da6-ba4e-12c1aeb0161d
+    dialogueText: "Y : \"(Je pense que j'ai pas d'autres choix.. que de m\xE9diter..
+      J'ai besoin de pas sombrer..\")"
+    pos: {x: 13594, y: 176}
+  - typeData: 0
+    nodeGUID: 1b36fae4-efe8-4d3d-bf8e-570be0982576
+    dialogueText: 'Y : "(.....)"'
+    pos: {x: 12234, y: 174}
+  - typeData: 1
+    nodeGUID: 122c55c1-d75a-447d-b14b-32523032c0f0
+    dialogueText: SET HUD EXPLORATION
+    pos: {x: 11755, y: 172}
+  - typeData: 1
+    nodeGUID: d91c972e-20e7-45e4-84fb-3889412ae5d9
+    dialogueText: LOAD SCENE Nuit2OnizukaFukuro
+    pos: {x: 14235, y: 176}
+  - typeData: 1
+    nodeGUID: 316490f5-3f76-478a-8514-d2337854b300
+    dialogueText: CHOIX SELON CLASSE
+    pos: {x: 3756, y: 188}
+  - typeData: 1
+    nodeGUID: 63727247-2dd3-43fa-acba-cebc4fd01477
+    dialogueText: EMOTION Stressee
+    pos: {x: 2237, y: 344}
+  - typeData: 1
+    nodeGUID: fe52e122-f3ae-4eaa-af39-0daa392cf5a5
+    dialogueText: EMOTION stressee
+    pos: {x: 3985, y: 413}
+  - typeData: 1
+    nodeGUID: 33442a9e-6053-4a75-938d-69e09d25962f
+    dialogueText: EMOTION neutre
+    pos: {x: 3966, y: -38}
+  - typeData: 1
+    nodeGUID: e4ce138f-70fd-43ce-814f-a160efed4357
+    dialogueText: EMOTION neutre
+    pos: {x: 4696, y: 335}
+  - typeData: 1
+    nodeGUID: dac35dc5-2bb4-4651-9b9a-e80a097d9b94
+    dialogueText: EMOTION enervee
+    pos: {x: 6452, y: 419}
+  - typeData: 1
+    nodeGUID: d8abafe6-a2e1-4e85-bdeb-0749bda2df97
+    dialogueText: EMOTION stressee
+    pos: {x: 6557, y: -8}
+  - typeData: 1
+    nodeGUID: cae55275-268c-40d3-8466-a0fb161b45b2
+    dialogueText: EMOTION heureuse
+    pos: {x: 7496, y: 10}
+  - typeData: 1
+    nodeGUID: d2f3f5b1-3974-493b-881f-4e5a1dc55ea1
+    dialogueText: EMOTION stressee
+    pos: {x: 7894, y: 9}
+  - typeData: 1
+    nodeGUID: 220e08b2-0976-474f-8b94-7407c5ef5086
+    dialogueText: EMOTION stressee
+    pos: {x: 8770, y: 7}
+  - typeData: 1
+    nodeGUID: 9f003f79-facb-41d4-8dce-cf3be26f9496
+    dialogueText: EMOTION triste
+    pos: {x: 10305, y: 22}
+  - typeData: 0
+    nodeGUID: ae04e92c-88f8-4cc7-a9bb-c24ba5b9f03a
+    dialogueText: "YUKIKO : \"(La maison m'a l'air abandonn\xE9e, elle a l'air pas
+      du r\xE9nov\xE9.. La pire chose qui pourrait m'arriver c'est qu'un insecte
+      me tombe dessus.. EW..)"
+    pos: {x: -367, y: 368}
+  - typeData: 1
+    nodeGUID: d0d588ba-c6e5-441a-9c48-3e683d59c579
+    dialogueText: BG ArtisanInteraction
+    pos: {x: 1654, y: 38}
+  linksData:
+  - originGUID: 3ae8e624-73fd-48b7-9cee-b51e40bf7a74
+    targetGUID: ae04e92c-88f8-4cc7-a9bb-c24ba5b9f03a
+    portName: Next
+    textOption: 
+  - originGUID: c9cd50c7-4ccf-4fa2-846a-4f98fcc83959
+    targetGUID: 63727247-2dd3-43fa-acba-cebc4fd01477
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: a413d3ca-742d-4a2c-88af-5197eee61239
+    targetGUID: 3113d9b0-ece1-46e3-a7ff-0c9383d555c5
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: f2917d42-3e8d-4e89-a53b-2fb8c4475036
+    targetGUID: b99369f2-60d3-4389-bc96-d5ffcb217a3b
+    portName: Event_1
+    textOption: 
+  - originGUID: b99369f2-60d3-4389-bc96-d5ffcb217a3b
+    targetGUID: 823f343f-b008-41a2-9aea-7c7b51c4f9d3
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 823f343f-b008-41a2-9aea-7c7b51c4f9d3
+    targetGUID: d0d588ba-c6e5-441a-9c48-3e683d59c579
+    portName: Event_1
+    textOption: 
+  - originGUID: 3113d9b0-ece1-46e3-a7ff-0c9383d555c5
+    targetGUID: 316490f5-3f76-478a-8514-d2337854b300
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 910d433f-1efd-4d8b-830d-b559d58cd9e1
+    targetGUID: 228c3d21-6c9b-4dfe-94da-c4cd9a39bf0c
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 228c3d21-6c9b-4dfe-94da-c4cd9a39bf0c
+    targetGUID: bf598c61-7ea0-4213-912e-f7db6771f8a1
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: bf598c61-7ea0-4213-912e-f7db6771f8a1
+    targetGUID: dbd8010d-e954-4431-ac2d-06a224669e0f
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 415b7c2c-7233-4f13-92bf-b15ea2f4e4dc
+    targetGUID: e4ce138f-70fd-43ce-814f-a160efed4357
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: dbd8010d-e954-4431-ac2d-06a224669e0f
+    targetGUID: dac35dc5-2bb4-4651-9b9a-e80a097d9b94
+    portName: Samourai
+    textOption: 
+  - originGUID: dbd8010d-e954-4431-ac2d-06a224669e0f
+    targetGUID: d8abafe6-a2e1-4e85-bdeb-0749bda2df97
+    portName: Pretresse
+    textOption: 
+  - originGUID: 141f6104-94e8-42c7-ae54-44a5e4242141
+    targetGUID: 047ae74b-b106-459c-92bd-a7f17117cb04
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 047ae74b-b106-459c-92bd-a7f17117cb04
+    targetGUID: ea223f11-6d9e-4f74-ac2d-874fcc8c1f01
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: ea223f11-6d9e-4f74-ac2d-874fcc8c1f01
+    targetGUID: bf598c61-7ea0-4213-912e-f7db6771f8a1
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: be01ac6b-64b7-4107-bb3b-44d4661df580
+    targetGUID: 476bfadf-1231-41ee-a984-22cea8e20580
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: b1d69e96-320a-4008-88da-e408ef7460fa
+    targetGUID: cae55275-268c-40d3-8466-a0fb161b45b2
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 5a408a5e-5d48-47e1-85c2-90062626ea64
+    targetGUID: d2f3f5b1-3974-493b-881f-4e5a1dc55ea1
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: cf02f8df-4276-4812-9fdc-b074d3df2e79
+    targetGUID: 9af5215e-957d-49aa-87c0-926858cc1911
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 476bfadf-1231-41ee-a984-22cea8e20580
+    targetGUID: b1d69e96-320a-4008-88da-e408ef7460fa
+    portName: Event_1
+    textOption: 
+  - originGUID: 9af5215e-957d-49aa-87c0-926858cc1911
+    targetGUID: 220e08b2-0976-474f-8b94-7407c5ef5086
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 20903e0c-d9af-482b-8914-87732a8d9a00
+    targetGUID: c82f5c98-bbc7-432e-ab3c-70fadb45ac39
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: c82f5c98-bbc7-432e-ab3c-70fadb45ac39
+    targetGUID: 9f003f79-facb-41d4-8dce-cf3be26f9496
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: bbd87b28-27e7-4fd6-a4d2-498cadc6467c
+    targetGUID: 0a73ea25-499f-4ecf-b2ea-f3d026ae13cb
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 0a73ea25-499f-4ecf-b2ea-f3d026ae13cb
+    targetGUID: 122c55c1-d75a-447d-b14b-32523032c0f0
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 199772d1-3f2e-4d94-874b-149d0a0dd324
+    targetGUID: c13912ac-ceba-4da6-ba4e-12c1aeb0161d
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: c13912ac-ceba-4da6-ba4e-12c1aeb0161d
+    targetGUID: d91c972e-20e7-45e4-84fb-3889412ae5d9
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 1b36fae4-efe8-4d3d-bf8e-570be0982576
+    targetGUID: 199772d1-3f2e-4d94-874b-149d0a0dd324
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: 122c55c1-d75a-447d-b14b-32523032c0f0
+    targetGUID: 1b36fae4-efe8-4d3d-bf8e-570be0982576
+    portName: Event_1
+    textOption: 
+  - originGUID: 316490f5-3f76-478a-8514-d2337854b300
+    targetGUID: fe52e122-f3ae-4eaa-af39-0daa392cf5a5
+    portName: Pretresse
+    textOption: 
+  - originGUID: 316490f5-3f76-478a-8514-d2337854b300
+    targetGUID: 33442a9e-6053-4a75-938d-69e09d25962f
+    portName: Samourai
+    textOption: 
+  - originGUID: 63727247-2dd3-43fa-acba-cebc4fd01477
+    targetGUID: a413d3ca-742d-4a2c-88af-5197eee61239
+    portName: Event_1
+    textOption: 
+  - originGUID: fe52e122-f3ae-4eaa-af39-0daa392cf5a5
+    targetGUID: 415b7c2c-7233-4f13-92bf-b15ea2f4e4dc
+    portName: Event_1
+    textOption: 
+  - originGUID: 33442a9e-6053-4a75-938d-69e09d25962f
+    targetGUID: 910d433f-1efd-4d8b-830d-b559d58cd9e1
+    portName: Event_1
+    textOption: 
+  - originGUID: e4ce138f-70fd-43ce-814f-a160efed4357
+    targetGUID: 228c3d21-6c9b-4dfe-94da-c4cd9a39bf0c
+    portName: Event_1
+    textOption: 
+  - originGUID: dac35dc5-2bb4-4651-9b9a-e80a097d9b94
+    targetGUID: 141f6104-94e8-42c7-ae54-44a5e4242141
+    portName: Event_1
+    textOption: 
+  - originGUID: d8abafe6-a2e1-4e85-bdeb-0749bda2df97
+    targetGUID: be01ac6b-64b7-4107-bb3b-44d4661df580
+    portName: Event_1
+    textOption: 
+  - originGUID: cae55275-268c-40d3-8466-a0fb161b45b2
+    targetGUID: 5a408a5e-5d48-47e1-85c2-90062626ea64
+    portName: Event_1
+    textOption: 
+  - originGUID: d2f3f5b1-3974-493b-881f-4e5a1dc55ea1
+    targetGUID: cf02f8df-4276-4812-9fdc-b074d3df2e79
+    portName: Event_1
+    textOption: 
+  - originGUID: 220e08b2-0976-474f-8b94-7407c5ef5086
+    targetGUID: 20903e0c-d9af-482b-8914-87732a8d9a00
+    portName: Event_1
+    textOption: 
+  - originGUID: 9f003f79-facb-41d4-8dce-cf3be26f9496
+    targetGUID: bbd87b28-27e7-4fd6-a4d2-498cadc6467c
+    portName: Event_1
+    textOption: 
+  - originGUID: ae04e92c-88f8-4cc7-a9bb-c24ba5b9f03a
+    targetGUID: f2917d42-3e8d-4e89-a53b-2fb8c4475036
+    portName: Choice 1
+    textOption: Choice 1
+  - originGUID: d0d588ba-c6e5-441a-9c48-3e683d59c579
+    targetGUID: c9cd50c7-4ccf-4fa2-846a-4f98fcc83959
+    portName: Event_1
+    textOption: 
