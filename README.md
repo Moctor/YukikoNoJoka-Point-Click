@@ -1,2 +1,1 @@
-# YukikoNoJoka-Point-Click
-This is a Point &amp; Click game set in Japan, where I was responsible for all the programming. The project was completed within 5 days.
+This is a Point & Click game set in Japan, developed during a 5-day class project. I handled all the programming aspects, including interaction systems, dialogue management, and game logic. This project helped me practice rapid prototyping and implementing gameplay mechanics under a tight deadline.
